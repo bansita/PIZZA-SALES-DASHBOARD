@@ -48,7 +48,8 @@ This project features an interactive "Pizza Sales Dashboard" developed using "Po
 - "Bar Charts" — Top & Bottom 5 Pizzas by Revenue, Quantity, and Order Count  
 - "Pie Charts" — % Sales by Category and Size  
 - "Line Charts" — Daily and Monthly Order Trends  
-- "Stacked Column Chart" — Pizza Category vs Quantity Sold  
+- "Stacked Column Chart" — Pizza Category vs Quantity Sold
+- Page Navigation Buttons — Easily navigate between the "Home Page", "Best Sellers/Worst Sellers Page" using custom buttons for a smooth user experience
 
 ---
 
