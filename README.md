@@ -1,4 +1,4 @@
-# PIZZA-SALES-DASHBOARD — Power BI + MySQL Project
+#🍕 PIZZA-SALES-DASHBOARD — Power BI + MySQL Project
 
 This project features an interactive "Pizza Sales Dashboard" developed using "Power BI" and "MySQL". It provides meaningful insights into sales trends, customer preferences, and product performance for a fictional pizza business. The dashboard is designed to support data-driven decision-making through clean visuals and key metrics.
 
